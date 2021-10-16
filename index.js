@@ -5,4 +5,3 @@ let obj = {
 
 obj.age=25;
 
-obj.foo = ()=>{return 1}
